@@ -1,5 +1,5 @@
 # Data Engineer Profile
-
+ 
 Welcome to my GitHub profile! 
 I am a Data Engineer specializing in Data Analytics and Machine Learning, with experience in both industrial R&D and e-commerce environments. I work at the intersection of data engineering, advanced analytics, and business strategy, transforming complex datasets into actionable and strategic insights.
 
